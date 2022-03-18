@@ -1,0 +1,2 @@
+# Ajax-form
+Make a form with following layout. Use the database tables used in the script above and save the record in the database tables without reloading the whole page using AJAX procedure. Use the POST method for form data in AJAX send() method. When user submit the record, the page should display the successful message at bottom of the page. When user reload the page, the successful message should disappear. 
